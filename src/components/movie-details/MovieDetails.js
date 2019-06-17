@@ -2,6 +2,6 @@ import React, { Component } from 'react';
 
 export default class MovieDetails extends Component {
 	render() {
-		return <div>movieDetails</div>;
+		return <div className='w-25'>movieDetails</div>;
 	}
 }
